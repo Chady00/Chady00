@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chady00&label=Profile%20views&color=0e75b6&style=flat" alt="chady00" /> </p>
 
-- 🌱 I’m currently learning **Autosar,RTOS,ARM business models**
+- 🌱 I’m currently learning **ِAutosar, React , JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chady00?tab=repositories](https://github.com/Chady00?tab=repositories)
 
