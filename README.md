@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops tools such as : Docker, Jenkins, AWS services, CodeBuild,Terraform, Kubernetes, Ansible, and RedHat**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chady001](https://github.com/Chady00)
+- 👨‍💻 All of my projects are available at [https://github.com/Chady00](https://github.com/Chady00)
 
 - 💬 Ask me about **Freelancing, and pretty much anything..**
 
