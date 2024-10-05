@@ -1,11 +1,11 @@
 <h1 align="center">Hey there, I'm Shady Ashraf</h1>
 <h3 align="center">A passionate Software / Devops Engineer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chady001" alt="chady001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chady00" alt="chady001" /></a> </p>
 
 - 🌱 I’m currently learning **Devops tools such as : Docker, Jenkins, AWS services, CodeBuild,Terraform, Kubernetes, Ansible, and RedHat**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chady001](https://github.com/Chady01)
+- 👨‍💻 All of my projects are available at [https://github.com/Chady001](https://github.com/Chady00)
 
 - 💬 Ask me about **Freelancing, and pretty much anything..**
 
