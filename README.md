@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chady00](https://github.com/Chady00)
 
-- 💬 Ask me about **Freelancing, and pretty much anything..**
-
 - 📫 How to reach me **chadyachrafaziz@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BIf430_Y7jBwc54XxqCdHw5nE-2eT-JW/view](https://drive.google.com/file/d/1BIf430_Y7jBwc54XxqCdHw5nE-2eT-JW/view)
